@@ -7,7 +7,7 @@ A simple, efficient API for managing tasks, to-dos, and projects. Built to help 
 - Mark tasks as complete or pending
 - User authentication(JWT)
 
-  🛠**Tech Stack**
+🛠**Tech Stack**
 - **Backend**: Django, Python
 - **Database**: Sqlite3
 - **Authentication**: JWT/OAuth
